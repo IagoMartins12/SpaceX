@@ -1,4 +1,4 @@
-# Axon: 
+# SpaceX: 
 Uma single page construida para o modulo de Bootstrap do curso OnebitCode. Onde tivemos que construir uma aplicação identica ao site da SpaceX
 
 # Tecnologias utilizadas no projeto: 

@@ -25,7 +25,7 @@ Uma single page construida para o modulo de Bootstrap do curso OnebitCode. Onde 
 
 <h3><strong> Falcon 9:</strong> </h3>
 <img src="./images/readme/Falcon9.png">
-<img src="./images/readme/Falcon9Carrosel.png">
+<img src="./images/readme/falcon9Carrosel.png">
 
 <h3><strong> Human space flight:</strong> </h3>
 <img src="./images/readme/HumanSpaceFlight.png">

@@ -104,16 +104,16 @@
   background-color: black;
 }
 .container00.container01 {
-  background-image: url(./images/home/image01.jpg);
+  background-image: url(../images/home/image01.jpg);
 }
 .container00.container02 {
-  background-image: url(./images/home/image03.jpg);
+  background-image: url(../images/home/image03.jpg);
 }
 .container00.container03 {
-  background-image: url(./images/home/image-gif02.gif);
+  background-image: url(../images/home/image-gif02.gif);
 }
 .container00.container04 {
-  background-image: url(./images/home/image04.jpg);
+  background-image: url(../images/home/image04.jpg);
 }
 
 .tittlePadding {

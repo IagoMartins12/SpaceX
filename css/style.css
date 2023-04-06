@@ -104,16 +104,16 @@
   background-color: black;
 }
 .container00.container01 {
-  background-image: url(../../../images/home/image01.jpg);
+  background-image: url(/images/home/image01.jpg);
 }
 .container00.container02 {
-  background-image: url(../../../images/home/image03.jpg);
+  background-image: url(/images/home/image03.jpg);
 }
 .container00.container03 {
-  background-image: url(../../../images/home/image-gif02.gif);
+  background-image: url(/images/home/image-gif02.gif);
 }
 .container00.container04 {
-  background-image: url(../../../images/home/image04.jpg);
+  background-image: url(/images/home/image04.jpg);
 }
 
 .tittlePadding {
@@ -141,28 +141,28 @@
   }
 }
 .container00.container05 {
-  background-image: url(../../../images/falcon9/image01.jpg);
+  background-image: url(/images/falcon9/image01.jpg);
 }
 .container00.container06 {
-  background-image: url(../../../images/falcon9/image02.jpg);
+  background-image: url(/images/falcon9/image02.jpg);
 }
 .container00.carrosel01 {
-  background-image: url(../../../images/falcon9/imagecarrosel01.jpg);
+  background-image: url(/images/falcon9/imagecarrosel01.jpg);
 }
 .container00.carrosel02 {
-  background-image: url(../../../images/falcon9/imagecarrosel02.jpg);
+  background-image: url(/images/falcon9/imagecarrosel02.jpg);
 }
 .container00.carrosel03 {
-  background-image: url(../../../images/falcon9/imagecarrosel03.jpg);
+  background-image: url(/images/falcon9/imagecarrosel03.jpg);
 }
 .container00.carrosel04 {
-  background-image: url(../../../images/falcon9/imagecarrosel04.jpg);
+  background-image: url(/images/falcon9/imagecarrosel04.jpg);
 }
 .container00.carrosel05 {
-  background-image: url(../../../images/falcon9/imagecarrosel05.jpg);
+  background-image: url(/images/falcon9/imagecarrosel05.jpg);
 }
 .container00.container07 {
-  background-image: url(../../../images/falcon9/image03.jpg);
+  background-image: url(/images/falcon9/image03.jpg);
 }
 
 .titleFalcon9 {
@@ -255,19 +255,19 @@
   }
 }
 .container00.container08 {
-  background-image: url(../../../images/human-flight/image01.jpg);
+  background-image: url(/images/human-flight/image01.jpg);
 }
 .container00.container09 {
-  background-image: url(../../../images/human-flight/image02.jpg);
+  background-image: url(/images/human-flight/image02.jpg);
 }
 .container00.container10 {
-  background-image: url(../../../images/human-flight/image03.jpg);
+  background-image: url(/images/human-flight/image03.jpg);
 }
 .container00.container11 {
-  background-image: url(../../../images/human-flight/image04.jpg);
+  background-image: url(/images/human-flight/image04.jpg);
 }
 .container00.container12 {
-  background-image: url(../../../images/human-flight/image05.jpg);
+  background-image: url(/images/human-flight/image05.jpg);
 }
 
 .container01Content {
